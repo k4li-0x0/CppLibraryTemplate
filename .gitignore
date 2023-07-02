@@ -20,3 +20,5 @@
 !add_sample*
 !CMakeLists.txt
 !CMakeSettings.json
+!README*
+!LICENSE*
