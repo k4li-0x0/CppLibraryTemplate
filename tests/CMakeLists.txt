@@ -1,0 +1,1 @@
+message(STATUS "${CMAKE_PROJECT_NAME}: added tests")
